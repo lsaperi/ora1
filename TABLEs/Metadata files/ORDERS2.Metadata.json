@@ -21,7 +21,7 @@
       "Identity": [],
       "IDENTITY_COLUMN": "NO",
       "INTERNAL_COLUMN_ID": 1.0,
-      "NULLABLE": "Y",
+      "NULLABLE": "N",
       "QUALIFIED_COL_NAME": "ORDER_ID",
       "SEGMENT_COLUMN_ID": 1.0,
       "TABLE_NAME": "ORDERS2",
@@ -132,6 +132,35 @@
       "TYPE": "TABLE"
     }
   ],
-  "Table_Constraints": [],
+  "Table_Constraints": [
+    {
+      "BAD": null,
+      "Columns": [
+        {
+          "COLUMN_NAME": "ORDER_ID",
+          "POSITION": 1.0,
+          "TABLE_NAME": "ORDERS2"
+        }
+      ],
+      "CONSTRAINT_TYPE": "P",
+      "DEFERRABLE": "NOT DEFERRABLE",
+      "DEFERRED": "IMMEDIATE",
+      "DELETE_RULE": null,
+      "GENERATED": "USER NAME",
+      "GENERATED_CONSTRAINT_NAME": "PK_ORDERS",
+      "INDEX_NAME": "PK_ORDERS",
+      "INVALID": null,
+      "R_CONSTRAINT_NAME": null,
+      "RELY": null,
+      "RemoteConstraint": [],
+      "SEARCH_CONDITION": null,
+      "SEARCH_CONDITION_VC": null,
+      "STATUS": "ENABLED",
+      "TABLE_NAME": "ORDERS2",
+      "TYPE": "TABLE",
+      "VALIDATED": "VALIDATED",
+      "VIEW_RELATED": null
+    }
+  ],
   "Table_Indexes": []
 }
