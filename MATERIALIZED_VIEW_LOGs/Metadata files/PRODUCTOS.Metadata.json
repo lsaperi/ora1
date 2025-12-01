@@ -1,0 +1,25 @@
+{
+  "Column": [
+    {
+      "COLUMN_NAME": "NOMBRE",
+      "MASTER": "PRODUCTOS",
+      "TYPE": "MATERIALIZED_VIEW_LOG"
+    },
+    {
+      "COLUMN_NAME": "PRECIO",
+      "MASTER": "PRODUCTOS",
+      "TYPE": "MATERIALIZED_VIEW_LOG"
+    }
+  ],
+  "General": [
+    {
+      "INCLUDE_NEW_VALUES": "YES",
+      "MASTER": "PRODUCTOS",
+      "OBJECT_ID": "NO",
+      "PRIMARY_KEY": "YES",
+      "ROWIDS": "NO",
+      "SEQUENCE": "YES",
+      "TYPE": "MATERIALIZED_VIEW_LOG"
+    }
+  ]
+}
