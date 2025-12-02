@@ -1,0 +1,7 @@
+CREATE OR REPLACE EDITIONABLE PROCEDURE DEMO_PROC
+AS
+BEGIN
+   DBMS_OUTPUT.PUT_LINE('Procedure inicial sin parámetros');
+END;
+/
+
