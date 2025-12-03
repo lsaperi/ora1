@@ -1,0 +1,39 @@
+{
+  "Attributes": [
+    {
+      "ATTR_NAME": "A_COL",
+      "ATTR_NO": 2.0,
+      "ATTR_TYPE_NAME": "TYPE_A",
+      "CHARACTER_SET_NAME": null,
+      "LENGTH": null,
+      "PRECISION": null,
+      "SCALE": null,
+      "TYPE": "TYPE",
+      "TYPE_NAME": "TYPE_B"
+    },
+    {
+      "ATTR_NAME": "FIELD_B",
+      "ATTR_NO": 1.0,
+      "ATTR_TYPE_NAME": "NUMBER",
+      "CHARACTER_SET_NAME": null,
+      "LENGTH": null,
+      "PRECISION": null,
+      "SCALE": null,
+      "TYPE": "TYPE",
+      "TYPE_NAME": "TYPE_B"
+    }
+  ],
+  "Comments": [],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "FINAL": "YES",
+      "OBJECT_TYPE": "TYPE",
+      "SUPERTYPE_NAME": null,
+      "TYPE_NAME": "TYPE_B",
+      "TYPECODE": "OBJECT"
+    }
+  ],
+  "Grants": [],
+  "Methods": []
+}
