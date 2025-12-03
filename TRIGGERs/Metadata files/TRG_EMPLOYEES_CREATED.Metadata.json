@@ -1,0 +1,12 @@
+{
+  "Comments": [],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "OBJECT_NAME": "TRG_EMPLOYEES_CREATED",
+      "OBJECT_TYPE": "TRIGGER",
+      "STATUS": "ENABLED"
+    }
+  ],
+  "Grants": []
+}
