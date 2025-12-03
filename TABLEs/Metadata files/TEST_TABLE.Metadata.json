@@ -43,7 +43,7 @@
       "DATA_LENGTH": 1.0,
       "DATA_PRECISION": null,
       "DATA_SCALE": null,
-      "DATA_TYPE": "TYPE_B",
+      "DATA_TYPE": "TYPE_C",
       "DATA_TYPE_MOD": null,
       "DEFAULT_LENGTH": null,
       "DEFAULT_ON_NULL": "NO",
