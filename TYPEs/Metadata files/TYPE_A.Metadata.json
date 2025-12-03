@@ -1,0 +1,28 @@
+{
+  "Attributes": [
+    {
+      "ATTR_NAME": "FIELD_A",
+      "ATTR_NO": 1.0,
+      "ATTR_TYPE_NAME": "VARCHAR2",
+      "CHARACTER_SET_NAME": "CHAR_CS",
+      "LENGTH": 100.0,
+      "PRECISION": null,
+      "SCALE": null,
+      "TYPE": "TYPE",
+      "TYPE_NAME": "TYPE_A"
+    }
+  ],
+  "Comments": [],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "FINAL": "YES",
+      "OBJECT_TYPE": "TYPE",
+      "SUPERTYPE_NAME": null,
+      "TYPE_NAME": "TYPE_A",
+      "TYPECODE": "OBJECT"
+    }
+  ],
+  "Grants": [],
+  "Methods": []
+}
