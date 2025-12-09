@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "",
+    "name": "AQ$_JMS_TEXT_MESSAGE",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_H",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_L",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_S",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_UNFLUSHED_DEQUEUES",
+    "type": "SYNONYM"
+  },
+  {
+    "schema": "",
+    "name": "SHARED_Q_TAB",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

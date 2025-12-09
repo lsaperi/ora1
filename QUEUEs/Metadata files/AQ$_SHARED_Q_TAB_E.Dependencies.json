@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_H",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_I",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_T",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "SHARED_Q_TAB",
+    "type": "TABLE"
+  }
+]

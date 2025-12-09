@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "ALL_RULES",
+    "type": "VIEW"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_SHARED_Q_TAB_S",
+    "type": "TABLE"
+  }
+]

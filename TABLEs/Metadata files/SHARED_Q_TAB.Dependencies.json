@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "",
+    "name": "ANYDATA",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_JMS_TEXT_MESSAGE",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_JMS_USERPROPARRAY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_JMS_USERPROPERTY",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]
